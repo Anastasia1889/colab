@@ -1,3 +1,1 @@
 # Marsik cat
-
-kitty-cat
